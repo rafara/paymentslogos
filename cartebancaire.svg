@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 26">
+  <defs>
+    <linearGradient id="linear-gradient" x1="2.74534" y1="-4.25492" x2="37.25466" y2="30.2544" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#289847"/>
+      <stop offset="0.48886" stop-color="#1787b9"/>
+      <stop offset="1" stop-color="#1d3564"/>
+    </linearGradient>
+    <mask id="mask" x="6.93878" y="7.56923" width="14.01958" height="11.43052" maskUnits="userSpaceOnUse">
+      <g id="mask-3">
+        <polygon id="path-2" points="6.939 18.999 20.958 18.999 20.958 7.569 6.939 7.569 6.939 18.999" style="fill: #fff"/>
+      </g>
+    </mask>
+  </defs>
+  <title>cartebancaire</title>
+  <g id="Page-1">
+    <g id="cb-65x41-">
+      <rect y="-0.00026" width="40" height="26" style="fill: url(#linear-gradient)"/>
+      <g id="Page-1-2" data-name="Page-1">
+        <g id="Group-3">
+          <g style="mask: url(#mask)">
+            <path id="Fill-1" d="M13.93047,12.80072h7.01684a5.05279,5.05279,0,0,0-1.48779-3.73266c-1.27674-1.0933-3.513-1.49883-5.51126-1.49883-2.07984,0-4.37993.4448-5.66342,1.61785a5.4231,5.4231,0,0,0-1.34606,4.0971,5.77092,5.77092,0,0,0,1.66878,4.33575c1.27673,1.09023,3.34553,1.37981,5.3407,1.37981,1.93811,0,4.03758-.327,5.307-1.36263a5.55031,5.55031,0,0,0,1.70313-4.35293v-.00737H13.93047Z" style="fill: #fff"/>
+          </g>
+        </g>
+        <path id="Fill-4" d="M21.41819,13.27706v5.46709h9.76112v-.00736A2.69752,2.69752,0,0,0,33.74383,16.044a2.76822,2.76822,0,0,0-2.56452-2.76943v.00245Z" style="fill: #fff"/>
+        <path id="Fill-6" d="M33.56524,10.29449a2.47966,2.47966,0,0,0-2.497-2.49642,3.05949,3.05949,0,0,0-.308-.008H21.41813v5.01063h9.84149a2.51853,2.51853,0,0,0,2.30562-2.50623" style="fill: #fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
